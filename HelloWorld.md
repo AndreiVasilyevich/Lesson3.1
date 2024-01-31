@@ -2,8 +2,9 @@
 
 Картинку обновил!
 
-12345
 
-hhhh
 
-git remote add origin https://github.com/AndreiVasilyev
+git remote add origin https://github.com/AndreiVasilyevich/Lesson3.1.git
+>> git branch -M main
+>> git push -u origin main
+
