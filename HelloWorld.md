@@ -9,5 +9,5 @@ git remote add origin https://github.com/AndreiVasilyevich/Lesson3.1.git
 >> git push -u origin main
 
 тестируем
-и что?
+и что ?
 
